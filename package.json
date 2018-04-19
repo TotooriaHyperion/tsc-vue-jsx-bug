@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@types/vue": "^2.0.0",
+    "typescript": "^2.9.0-dev.20180418",
+    "vue": "^2.5.16"
+  },
+  "name": "tsc-vue-jsx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
