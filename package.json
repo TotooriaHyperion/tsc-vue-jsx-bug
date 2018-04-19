@@ -1,6 +1,8 @@
 {
   "dependencies": {
+    "@types/react": "^16.3.11",
     "@types/vue": "^2.0.0",
+    "react": "^16.3.2",
     "typescript": "^2.9.0-dev.20180418",
     "vue": "^2.5.16"
   },
